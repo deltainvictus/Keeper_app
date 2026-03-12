@@ -2,7 +2,7 @@
   "name": "keeper-part-3-starting",
   "version": "1.0.0",
   "engines": {
-  "node": "16.x"
+  "node": "24.x"
    },
   "description": "",
   "keywords": [],
